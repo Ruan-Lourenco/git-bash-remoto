@@ -1,0 +1,3 @@
+Coamdos Push e Pull
+Push: Significa empurrar, corresponde ao aoto de envviar o repositório local para um repositório remoto;
+Pull: Significa puxar, corresponde ao ato contrário, pegar uma versão do repositórior remoto para o local;
